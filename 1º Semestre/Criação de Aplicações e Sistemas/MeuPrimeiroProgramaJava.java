@@ -15,7 +15,7 @@ class MeuPrimeiroProgramaJava
 
       if (VF == true)
       {
-        System.out.printIn("Eu sou o " + frase + "tenho " + inteiro + " anos e tenho " + real + "m de altura");
+        System.out.println("Eu sou o " + frase + "tenho " + inteiro + " anos e tenho " + real + "m de altura");
       }
       System.exit(0);
   }
