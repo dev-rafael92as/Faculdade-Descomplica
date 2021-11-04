@@ -17,6 +17,6 @@ class MeuPrimeiroProgramaJava
       {
         System.out.println("Eu sou o " + frase + "tenho " + inteiro + " anos e tenho " + real + "m de altura");
       }
-      System.exit(0);
+      System.exit(0);   
   }
 }
