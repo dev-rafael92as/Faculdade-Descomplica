@@ -17,6 +17,8 @@ class ProgramaRepeticao2 {
         if(n1 % 2 == 0 && n2 % 2 == 0) {
           soma = n1 + n2;
           msg = msg + "Soma de " + n1 + " por " + n2 + " = " + soma + "\n\n";
+        } else {
+          msg = msg + "Nao foi possivel calcular a soma pois os numeros digitados nao sao pares";
         }
         break;
       }
